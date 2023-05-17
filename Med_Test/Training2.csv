@@ -1,0 +1,18 @@
+﻿Vaginal discharge,Burning sensation,Sexpain,Mouth warts,Rash,Vaginal bleeding,Genital itchiness,Genital blisters,Genital warts,prognosis
+1,0,1,0,0,0,0,0,0,Female Chlamydia
+0,0,1,0,0,0,0,0,0,Female Chlamydia
+1,0,0,0,0,0,0,0,0,Female Chlamydia
+1,0,0,0,0,1,0,0,0,Female Gonorrhoea
+1,0,0,0,0,0,0,0,0,Female Gonorrhoea
+0,0,0,0,0,1,0,0,0,Female Gonorrhoea
+1,1,1,0,0,0,1,0,0,Female Trichomoniasis
+1,1,1,0,0,0,0,0,0,Female Trichomoniasis
+0,1,1,0,0,0,1,0,0,Female Trichomoniasis
+1,1,0,0,0,0,1,0,0,Female Trichomoniasis
+0,0,0,0,0,0,0,1,0,Genital Herpes
+0,0,0,1,0,0,0,0,1,HPV
+0,0,0,0,0,0,0,0,1,HPV
+0,0,0,1,0,0,0,0,0,HPV
+0,0,0,0,1,0,0,1,0,Syphilis
+0,0,0,0,0,0,0,1,0,Syphilis
+0,0,0,0,1,0,0,0,0,Syphilis
